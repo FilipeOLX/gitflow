@@ -1,7 +1,13 @@
 [
     {
+        "name" : "Ricardo Baptista",
+        "email" : "ricardo.baptista@olx.com",
+        "departament" : "Space Cake :Cars"
+    },
+    {
         "name" : "Filipe Branco",
         "email" : "filipe.branco@olx.com",
         "departament" : "Space Cake :Cars"
     }
+
 ]
